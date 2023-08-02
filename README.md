@@ -1,7 +1,7 @@
 # Linux Activity Files
 The files in this repository are provided for Linux activities through courses with the Wiley Edge Academy.
 
-For more information about our courses, please visit (wileyedge.com)[https://www.wiley.com/edge/]. 
+For more information about our courses, please visit [wileyedge.com](https://www.wiley.com/edge/). 
 
 &copy; John Wiley & Sons, Inc.
 
